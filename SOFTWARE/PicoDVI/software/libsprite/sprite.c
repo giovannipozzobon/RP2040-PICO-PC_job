@@ -1,7 +1,8 @@
 #include "sprite.h"
 #include "affine_transform.h"
 
-#include "pico/platform.h" // for __not_in_flash
+//#include "pico/platform.h" // for __not_in_flash
+#include "pico.h" //jobond 13/06/2025 tolto #include "pico/platform.h" e sostituito con #include "pico.h" 
 #include "hardware/interp.h"
 
 // Note some of the sprite routines are quite large (unrolled), so trying to

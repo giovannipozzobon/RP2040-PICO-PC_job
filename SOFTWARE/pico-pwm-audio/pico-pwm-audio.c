@@ -3,6 +3,7 @@
 #include "hardware/irq.h"  // interrupts
 #include "hardware/pwm.h"  // pwm 
 #include "hardware/sync.h" // wait for interrupt 
+#include "hardware/clocks.h" //jobond 13/06/2025 Inserito perchè mancava e dava errore hardware/structs/clocks.h
  
 // Audio PIN is to match some of the design guide shields. 
 #define AUDIO_PIN1 27  // you can change this to whatever you like

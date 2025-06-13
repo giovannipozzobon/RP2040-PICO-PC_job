@@ -1,0 +1,5 @@
+/Users/giovanni.pozzobon/Documents/GitHub/rp2040_pico_job/RP2040-PICO-PC_job/SOFTWARE/PicoDVI/software/build/pioasm-install/pioasm/pioasm
+/Users/giovanni.pozzobon/Documents/GitHub/rp2040_pico_job/RP2040-PICO-PC_job/SOFTWARE/PicoDVI/software/build/pioasm-install/pioasm/pioasmTargets.cmake
+/Users/giovanni.pozzobon/Documents/GitHub/rp2040_pico_job/RP2040-PICO-PC_job/SOFTWARE/PicoDVI/software/build/pioasm-install/pioasm/pioasmTargets-release.cmake
+/Users/giovanni.pozzobon/Documents/GitHub/rp2040_pico_job/RP2040-PICO-PC_job/SOFTWARE/PicoDVI/software/build/pioasm-install/pioasm/pioasmConfig.cmake
+/Users/giovanni.pozzobon/Documents/GitHub/rp2040_pico_job/RP2040-PICO-PC_job/SOFTWARE/PicoDVI/software/build/pioasm-install/pioasm/pioasmConfigVersion.cmake

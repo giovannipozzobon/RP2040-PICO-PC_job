@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/giovanni.pozzobon/Documents/GitHub/rp2040_pico_job/RP2040-PICO-PC_job/SOFTWARE/no-OS-FatFS-SD-SPI-RPi-Pico/simple_example/build/_deps/picotool-build/enc_bootloader/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,7 @@
+/Users/giovanni.pozzobon/Documents/GitHub/rp2040_pico_job/RP2040-PICO-PC_job/SOFTWARE/pico-pwm-audio/build/_deps/picotool/picotool
+/Users/giovanni.pozzobon/Documents/GitHub/rp2040_pico_job/RP2040-PICO-PC_job/SOFTWARE/pico-pwm-audio/build/_deps/picotool/picotoolTargets.cmake
+/Users/giovanni.pozzobon/Documents/GitHub/rp2040_pico_job/RP2040-PICO-PC_job/SOFTWARE/pico-pwm-audio/build/_deps/picotool/picotoolTargets-release.cmake
+/Users/giovanni.pozzobon/Documents/GitHub/rp2040_pico_job/RP2040-PICO-PC_job/SOFTWARE/pico-pwm-audio/build/_deps/picotool/picotoolConfig.cmake
+/Users/giovanni.pozzobon/Documents/GitHub/rp2040_pico_job/RP2040-PICO-PC_job/SOFTWARE/pico-pwm-audio/build/_deps/picotool/picotoolConfigVersion.cmake
+/Users/giovanni.pozzobon/Documents/GitHub/rp2040_pico_job/RP2040-PICO-PC_job/SOFTWARE/pico-pwm-audio/build/_deps/picotool/enc_bootloader.elf
+/Users/giovanni.pozzobon/Documents/GitHub/rp2040_pico_job/RP2040-PICO-PC_job/SOFTWARE/pico-pwm-audio/build/_deps/picotool/enc_bootloader_mbedtls.elf

@@ -9,5 +9,8 @@
         "tmds_encode_1bpp.pio.h": "c",
         "tmds_encode.h": "c",
         "clocks.h": "c"
+    },
+    "[m68k]": {
+        "editor.rulers": []
     }
 }

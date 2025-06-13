@@ -1,0 +1,7 @@
+/Users/giovanni.pozzobon/Documents/GitHub/rp2040_pico_job/RP2040-PICO-PC_job/SOFTWARE/PicoDVI/software/build/pioasm/CMakeFiles/pioasm.dir
+/Users/giovanni.pozzobon/Documents/GitHub/rp2040_pico_job/RP2040-PICO-PC_job/SOFTWARE/PicoDVI/software/build/pioasm/CMakeFiles/edit_cache.dir
+/Users/giovanni.pozzobon/Documents/GitHub/rp2040_pico_job/RP2040-PICO-PC_job/SOFTWARE/PicoDVI/software/build/pioasm/CMakeFiles/rebuild_cache.dir
+/Users/giovanni.pozzobon/Documents/GitHub/rp2040_pico_job/RP2040-PICO-PC_job/SOFTWARE/PicoDVI/software/build/pioasm/CMakeFiles/list_install_components.dir
+/Users/giovanni.pozzobon/Documents/GitHub/rp2040_pico_job/RP2040-PICO-PC_job/SOFTWARE/PicoDVI/software/build/pioasm/CMakeFiles/install.dir
+/Users/giovanni.pozzobon/Documents/GitHub/rp2040_pico_job/RP2040-PICO-PC_job/SOFTWARE/PicoDVI/software/build/pioasm/CMakeFiles/install/local.dir
+/Users/giovanni.pozzobon/Documents/GitHub/rp2040_pico_job/RP2040-PICO-PC_job/SOFTWARE/PicoDVI/software/build/pioasm/CMakeFiles/install/strip.dir

@@ -1,0 +1,14 @@
+# Target labels
+ picotoolBuild
+# Source files and their labels
+/Users/giovanni.pozzobon/Documents/GitHub/rp2040_pico_job/RP2040-PICO-PC_job/SOFTWARE/pico-pwm-audio/build/CMakeFiles/picotoolBuild
+/Users/giovanni.pozzobon/Documents/GitHub/rp2040_pico_job/RP2040-PICO-PC_job/SOFTWARE/pico-pwm-audio/build/CMakeFiles/picotoolBuild.rule
+/Users/giovanni.pozzobon/Documents/GitHub/rp2040_pico_job/RP2040-PICO-PC_job/SOFTWARE/pico-pwm-audio/build/CMakeFiles/picotoolBuild-complete.rule
+/Users/giovanni.pozzobon/Documents/GitHub/rp2040_pico_job/RP2040-PICO-PC_job/SOFTWARE/pico-pwm-audio/build/picotool/src/picotoolBuild-stamp/picotoolBuild-build.rule
+/Users/giovanni.pozzobon/Documents/GitHub/rp2040_pico_job/RP2040-PICO-PC_job/SOFTWARE/pico-pwm-audio/build/picotool/src/picotoolBuild-stamp/picotoolBuild-configure.rule
+/Users/giovanni.pozzobon/Documents/GitHub/rp2040_pico_job/RP2040-PICO-PC_job/SOFTWARE/pico-pwm-audio/build/picotool/src/picotoolBuild-stamp/picotoolBuild-download.rule
+/Users/giovanni.pozzobon/Documents/GitHub/rp2040_pico_job/RP2040-PICO-PC_job/SOFTWARE/pico-pwm-audio/build/picotool/src/picotoolBuild-stamp/picotoolBuild-install.rule
+/Users/giovanni.pozzobon/Documents/GitHub/rp2040_pico_job/RP2040-PICO-PC_job/SOFTWARE/pico-pwm-audio/build/picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir.rule
+/Users/giovanni.pozzobon/Documents/GitHub/rp2040_pico_job/RP2040-PICO-PC_job/SOFTWARE/pico-pwm-audio/build/picotool/src/picotoolBuild-stamp/picotoolBuild-patch.rule
+/Users/giovanni.pozzobon/Documents/GitHub/rp2040_pico_job/RP2040-PICO-PC_job/SOFTWARE/pico-pwm-audio/build/picotool/src/picotoolBuild-stamp/picotoolBuild-test.rule
+/Users/giovanni.pozzobon/Documents/GitHub/rp2040_pico_job/RP2040-PICO-PC_job/SOFTWARE/pico-pwm-audio/build/picotool/src/picotoolBuild-stamp/picotoolBuild-update.rule

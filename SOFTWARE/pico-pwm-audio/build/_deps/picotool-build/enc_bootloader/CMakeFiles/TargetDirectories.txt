@@ -1,0 +1,2 @@
+/Users/giovanni.pozzobon/Documents/GitHub/rp2040_pico_job/RP2040-PICO-PC_job/SOFTWARE/pico-pwm-audio/build/_deps/picotool-build/enc_bootloader/CMakeFiles/edit_cache.dir
+/Users/giovanni.pozzobon/Documents/GitHub/rp2040_pico_job/RP2040-PICO-PC_job/SOFTWARE/pico-pwm-audio/build/_deps/picotool-build/enc_bootloader/CMakeFiles/rebuild_cache.dir

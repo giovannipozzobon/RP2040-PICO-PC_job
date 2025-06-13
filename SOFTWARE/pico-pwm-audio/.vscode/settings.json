@@ -1,5 +1,8 @@
 {
     "files.associations": {
         "sample.h": "c"
+    },
+    "[m68k]": {
+        "editor.rulers": []
     }
 }

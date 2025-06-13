@@ -4,7 +4,8 @@
 // Stolen from RISCBoy
 
 #include <stdint.h>
-#include "pico/platform.h"
+//#include "pico/platform.h" 
+#include "pico.h" //jobond 13/06/2025 tolto #include "pico/platform.h" e sostituito con #include "pico.h" 
 
 // Store unpacked affine transforms as signed 16.16 fixed point in the following order:
 // a00, a01, b0,   a10, a11, b1
